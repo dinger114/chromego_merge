@@ -217,7 +217,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: Canada vmess 32
@@ -232,7 +232,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: None vmess 33
@@ -247,7 +247,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: None vmess 34
@@ -262,7 +262,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: None vmess 41
