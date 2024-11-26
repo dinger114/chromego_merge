@@ -1466,7 +1466,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: c3.6016725.xyz
-- name: United States vmess 096
+- name: None vmess 096
   type: vmess
   server: japan.com
   port: 2095
@@ -1481,7 +1481,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: c3.6016725.xyz
-- name: United States vmess 097
+- name: None vmess 097
   type: vmess
   server: malaysia.com
   port: 2095
@@ -3128,7 +3128,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e1.6929198.xyz
-- name: United States vmess 2101
+- name: None vmess 2101
   type: vmess
   server: www.visa.com
   port: 2082
@@ -3611,8 +3611,8 @@ proxy-groups:
   - Canada vmess 093
   - None vmess 094
   - United States vmess 095
-  - United States vmess 096
-  - United States vmess 097
+  - None vmess 096
+  - None vmess 097
   - None vmess 098
   - None vmess 099
   - None vmess 0100
@@ -3721,7 +3721,7 @@ proxy-groups:
   - None vmess 298
   - None vmess 299
   - None vmess 2100
-  - United States vmess 2101
+  - None vmess 2101
   - None vmess 31
   - None vmess 32
   - None vmess 33
@@ -3844,8 +3844,8 @@ proxy-groups:
   - Canada vmess 093
   - None vmess 094
   - United States vmess 095
-  - United States vmess 096
-  - United States vmess 097
+  - None vmess 096
+  - None vmess 097
   - None vmess 098
   - None vmess 099
   - None vmess 0100
@@ -3954,7 +3954,7 @@ proxy-groups:
   - None vmess 298
   - None vmess 299
   - None vmess 2100
-  - United States vmess 2101
+  - None vmess 2101
   - None vmess 31
   - None vmess 32
   - None vmess 33
@@ -4077,8 +4077,8 @@ proxy-groups:
   - Canada vmess 093
   - None vmess 094
   - United States vmess 095
-  - United States vmess 096
-  - United States vmess 097
+  - None vmess 096
+  - None vmess 097
   - None vmess 098
   - None vmess 099
   - None vmess 0100
@@ -4187,7 +4187,7 @@ proxy-groups:
   - None vmess 298
   - None vmess 299
   - None vmess 2100
-  - United States vmess 2101
+  - None vmess 2101
   - None vmess 31
   - None vmess 32
   - None vmess 33
